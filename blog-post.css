@@ -109,7 +109,7 @@ html,body
     top: 0px;
     font-size: 1rem;
     position: absolute;
-        color: #000000;
+        color: #000000!important;
 }
 .vc_column-inner{
   padding: 15px;
