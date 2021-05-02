@@ -178,7 +178,6 @@ html,body
 .advertorial {
     
     font-size: 10px;
-    colour: #000000;
     
 }
 
@@ -921,7 +920,7 @@ strong{
 #advertorial{
         text-align: center;
     font-size: 12px;
-    color: gray;
+    color: black;
     border: none;
     padding-top: 10px;
     position: absolute;
