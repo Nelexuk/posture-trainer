@@ -331,7 +331,6 @@ font-size:18px;
 .adv-side{
       position: fixed;
     width: 25%;
-    border-radius: 20px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.2);
     background-color: #534F4E;
     max-width:360px;
@@ -343,7 +342,6 @@ font-size:18px;
 }
 
 .adv-body{
-    border-radius: 20px;
     padding-left: 30px;
     padding-right: 30px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.2);
