@@ -1521,6 +1521,9 @@ text-align: center;
     width: 100%;
     }
 }
+.hero-image {
+    text-align: center;
+}
 
 /*!
  * Bootstrap v4.1.1 (https://getbootstrap.com/)
